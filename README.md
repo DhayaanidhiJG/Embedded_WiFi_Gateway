@@ -53,7 +53,7 @@ One-Step Setup
 Clone the repository and run the setup script:
 
 ```Bash
-git clone https://github.com/YourUsername/RPi-IoT-Gateway.git
+git clone https://github.com/YourUsername/Embedded_WiFi_Gateway.git
 cd Embedded_WiFi_Gateway
 chmod +x setup_hotspot.sh
 sudo ./setup_hotspot.sh
