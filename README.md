@@ -54,7 +54,7 @@ Clone the repository and run the setup script:
 
 ```Bash
 git clone https://github.com/YourUsername/RPi-IoT-Gateway.git
-cd WiFi_Embedded_Gateway
+cd Embedded_WiFi_Gateway
 chmod +x setup_hotspot.sh
 sudo ./setup_hotspot.sh
 ```
