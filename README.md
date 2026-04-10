@@ -84,5 +84,13 @@ To see connected devices in real-time, run:
 nmcli device wifi list --rescan yes
 ```
 
+## Future Scope & Roadmap
+
+This gateway is the foundation for a larger IoT ecosystem. Planned future developments include:
+
+* **MQTT Broker Integration:** Deploying a Mosquitto broker on the Pi to handle telemetry data from ESP32 edge nodes.
+* **Web Dashboard:** Developing a lightweight Flask or Node.js dashboard to monitor connected device health and signal strength.
+* **OTA Updates:** Implementing Over-The-Air (OTA) update capabilities for connected ESP32 clients via the RPi gateway.
+
 ## 📜 License
 Distributed under the MIT License. See LICENSE for more information.
